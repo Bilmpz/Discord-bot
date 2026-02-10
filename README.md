@@ -1,6 +1,6 @@
 #  AAU Study Buddy Bot (Under Development)
 
-AAU Study Buddy Bot is a Discord bot designed to help students stay focused, organized, and motivated during university life — especially at Aalborg University (AAU).
+AAU Study Buddy Bot is a Discord bot designed to help students stay focused, organized, and motivated during university life
 
 This project is currently **under active development**, and new features are being added step by step.
 
@@ -18,8 +18,6 @@ This bot is meant to be both useful for real student servers and a strong portfo
 
 ---
 ##  Current Features
-
 - Bot login system (Discord.js v14)
 - Slash command support
 - Command handler structure
-- Working test command:
