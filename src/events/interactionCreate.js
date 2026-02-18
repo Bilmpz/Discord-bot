@@ -15,9 +15,9 @@ module.exports = {
     } catch (err) {
       console.error(err);
       if (interaction.replied || interaction.deferred) {
-        await interaction.followUp({ content: "Der skete en fejl 😅", ephemeral: true });
+        await interaction.followUp({ content: "Der skete en fejl", ephemeral: true });
       } else {
-        await interaction.reply({ content: "Der skete en fejl 😅", ephemeral: true });
+        await interaction.reply({ content: "Der skete en fejl", ephemeral: true });
       }
     }
   },

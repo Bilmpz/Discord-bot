@@ -1,8 +1,20 @@
 module.exports = {
-  name: "ping",
-  description: "Test command",
+  name: "bil",
+  description: "Tester om botten er aktivt",
   async execute(interaction) {
-    await interaction.reply("p2ong 🏓");
+    await interaction.reply("Aktiv");
   },
 };
+
+
+
+
+
+
+
+
+
+
+
+
 // node src/index.js
